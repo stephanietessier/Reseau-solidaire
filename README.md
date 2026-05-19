@@ -4,7 +4,6 @@ Prototype progressiste d'intelligence artificielle pour connecter en temps réel
 
 Ce projet est conçu pour être :
 
-- prêt à déposer sur GitHub ;
 - prêt à exécuter dans Google Colab ;
 - utilisable comme démonstrateur Streamlit ;
 - simple à adapter pour une ville, une association ou un collectif.
