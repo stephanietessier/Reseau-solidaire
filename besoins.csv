@@ -1,0 +1,9 @@
+id_besoin,nom,quartier,latitude,longitude,categorie,description,urgence,beneficiaires,contact
+B001,Famille Diallo,Villeray,45.5501,-73.6287,nourriture,"Besoin d'un panier alimentaire avec produits frais et couches",5,4,famille.diallo@example.com
+B002,Mme Tremblay,Plateau-Mont-Royal,45.5215,-73.5804,entraide,"Besoin d'aide pour faire l'épicerie et monter les sacs",3,1,tremblay@example.com
+B003,Collectif Jeunes Hochelaga,Hochelaga,45.5468,-73.5455,logement,"Recherche hébergement temporaire pour deux jeunes en rupture familiale",5,2,collectif.homa@example.com
+B004,M. Nguyen,Côte-des-Neiges,45.4963,-73.6199,nourriture,"Besoin de repas préparés après une perte d'emploi",4,2,nguyen@example.com
+B005,Ana Ruiz,Parc-Extension,45.5305,-73.6265,entraide,"Besoin d'accompagnement pour rendez-vous médical",4,1,ana.ruiz@example.com
+B006,Centre Femmes Sud-Ouest,Saint-Henri,45.4782,-73.5855,logement,"Recherche logements abordables ou chambres sécuritaires",5,3,centre.femmes@example.com
+B007,Étudiant isolé,Milton-Parc,45.5076,-73.5747,nourriture,"Besoin d'un panier alimentaire végétarien",3,1,etudiant@example.com
+B008,Père monoparental,Rosemont,45.5517,-73.5848,entraide,"Besoin de garde ponctuelle et aide aux devoirs",4,2,pere.rosemont@example.com

@@ -1,0 +1,11 @@
+id_ressource,organisation,quartier,latitude,longitude,categorie,description,capacite,disponibilite,contact
+R001,Banque alimentaire Villeray,Villeray,45.5489,-73.6254,nourriture,"Paniers alimentaires, couches, produits frais",25,oui,contact@bavilleray.org
+R002,Voisins Solidaires Plateau,Plateau-Mont-Royal,45.5230,-73.5820,entraide,"Bénévoles pour courses, visites et accompagnement",10,oui,plateau@solidaires.org
+R003,Hébergement Horizon,Hochelaga,45.5481,-73.5432,logement,"Lits temporaires pour jeunes adultes",4,oui,horizon@example.org
+R004,Cuisine Collective CDN,Côte-des-Neiges,45.4970,-73.6180,nourriture,"Repas préparés et paniers d'urgence",18,oui,cuisinecdn@example.org
+R005,Accompagnement Santé Parc-Ex,Parc-Extension,45.5311,-73.6258,entraide,"Accompagnement médical multilingue",6,oui,santeparcex@example.org
+R006,Maison Sécuritaire Sud-Ouest,Saint-Henri,45.4770,-73.5849,logement,"Chambres temporaires sécuritaires pour femmes",2,oui,maisonso@example.org
+R007,Frigo Communautaire Milton,Milton-Parc,45.5080,-73.5753,nourriture,"Frigo libre-service, options végétariennes",15,oui,frigo@example.org
+R008,Réseau Parents Rosemont,Rosemont,45.5520,-73.5855,entraide,"Aide aux devoirs, gardiennage solidaire",8,oui,parentsrosemont@example.org
+R009,Logis Montréal Centre,Ville-Marie,45.5088,-73.5540,logement,"Orientation logement et médiation avec propriétaires",7,oui,logiscentre@example.org
+R010,Panier Mobile Montréal,Ahuntsic,45.5534,-73.6623,nourriture,"Livraison de paniers alimentaires aux personnes à mobilité réduite",12,oui,paniermobile@example.org
